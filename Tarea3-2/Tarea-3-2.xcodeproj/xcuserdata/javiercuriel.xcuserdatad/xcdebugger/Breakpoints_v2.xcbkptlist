@@ -10,11 +10,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Tarea3-2/main.cpp"
-            timestampString = "466019400.245982"
+            timestampString = "466021886.965816"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "98"
-            endingLineNumber = "98"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarea3-2/main.cpp"
+            timestampString = "466021886.965816"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
             landmarkName = "main(int argc, const char * argv[])"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,13 +42,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Tarea3-2/main.cpp"
-            timestampString = "466019404.062217"
+            timestampString = "466021886.965816"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
-            landmarkName = "main(int argc, const char * argv[])"
-            landmarkType = "7">
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "pasarSiguiente(int palabra)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarea3-2/main.cpp"
+            timestampString = "466021886.965816"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "pasarSiguiente(int palabra)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarea3-2/main.cpp"
+            timestampString = "466021687.431784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "insertarPalabra(int palabra)"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
