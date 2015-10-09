@@ -6,6 +6,8 @@
 //  Copyright © 2015 Javier Curiel. All rights reserved.
 //
 
+// Complejidad de O(n)
+
 #include <iostream>
 #include <vector>
 using namespace std;
