@@ -6,6 +6,9 @@
 //  Copyright © 2015 Javier Curiel. All rights reserved.
 //
 
+// Complejidad de O(n^2)
+
+
 #include <iostream>
 #include <vector>
 
